@@ -1,10 +1,10 @@
 # CS Tutor
 
-Web application that allows Professors and Administrators to manage their student workers such as tutors, graders, and lab assistants in terms of hours, scheduling, and payroll.
+Web application that allows Professors and Administrators to manage their student workers (tutors, graders, lab assistants, etc.) in terms of their hours, scheduling, and payroll.
 
 ## UX Team Members
 
-* **[Nathan Whitney](https://github.com/UsabilityEngineering/ux-portfolio-the29ster)** - !!!List of Person A's primary contributions!!!
+* **[Nathan Whitney](https://github.com/UsabilityEngineering/ux-portfolio-the29ster)** - Conducted interviews and surveys, Developed personas and scenarios.
 * **[Thomas Shelton](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
