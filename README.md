@@ -1,25 +1,3 @@
-## Executive Summary:
-
-## Methods:
-
-Survey and Interviews
-
-## Findings:
-
-## Conclusions:
-
-## Caveats:
-
-## Personas:
-
-## Scenarios:
-
-## Supplementary Materials:
-
-[CS Tutor Student Survey - Google Forms.pdf](https://github.com/UsabilityEngineering/ux-portfolio-the29ster/files/8209449/CS.Tutor.Student.Survey.-.Google.Forms.pdf)
-
-[Instrument Design.pdf](https://github.com/UsabilityEngineering/ux-portfolio-the29ster/files/8209453/Instrument.Design.pdf)
-
 # CS Tutor
 
 Web application that allows Professors and Administrators to manage their student workers such as tutors, graders, and lab assistants in terms of hours, scheduling, and payroll.
