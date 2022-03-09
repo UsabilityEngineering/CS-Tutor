@@ -1,13 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
-## Introduction:
-
-Phase I: Requirements Gathering
-
-Project Name: CS Tutor
-
-Team Members: Nathan Whitney, Thomas Shelton
-
 ## Executive Summary:
 
 ## Methods:
@@ -30,15 +20,14 @@ Survey and Interviews
 
 [Instrument Design.pdf](https://github.com/UsabilityEngineering/ux-portfolio-the29ster/files/8209453/Instrument.Design.pdf)
 
-# !!!Project Name!!!
+# CS Tutor
 
-!!!Brief introduction to the project's vision!!!
+Web application that allows Professors and Administrators to manage their student workers such as tutors, graders, and lab assistants in terms of hours, scheduling, and payroll.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Nathan Whitney](https://github.com/UsabilityEngineering/ux-portfolio-the29ster)** - !!!List of Person A's primary contributions!!!
+* **[Thomas Shelton](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
  
