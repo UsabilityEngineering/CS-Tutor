@@ -1,5 +1,35 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
+## Introduction:
+
+Phase I: Requirements Gathering
+
+Project Name: CS Tutor
+
+Team Members: Nathan Whitney, Thomas Shelton
+
+## Executive Summary:
+
+## Methods:
+
+Survey and Interviews
+
+## Findings:
+
+## Conclusions:
+
+## Caveats:
+
+## Personas:
+
+## Scenarios:
+
+## Supplementary Materials:
+
+[CS Tutor Student Survey - Google Forms.pdf](https://github.com/UsabilityEngineering/ux-portfolio-the29ster/files/8209449/CS.Tutor.Student.Survey.-.Google.Forms.pdf)
+
+[Instrument Design.pdf](https://github.com/UsabilityEngineering/ux-portfolio-the29ster/files/8209453/Instrument.Design.pdf)
+
 # !!!Project Name!!!
 
 !!!Brief introduction to the project's vision!!!
