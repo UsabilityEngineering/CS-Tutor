@@ -10,9 +10,7 @@ Survey and Interviews
 
 ## Caveats:
 
-## Personas:
-
-## Scenarios:
+## Personas and Scenarios:
 
 ## Supplementary Materials:
 
