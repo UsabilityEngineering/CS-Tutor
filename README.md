@@ -10,7 +10,7 @@ Web application that allows Professors and Administrators to manage their studen
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](#)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
