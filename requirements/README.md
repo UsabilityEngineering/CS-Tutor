@@ -18,4 +18,4 @@ Survey and Interviews
 
 [CS Tutor Student Survey - Google Forms.pdf](CS Tutor Student Survey - Google.Forms.pdf)
 
-[Instrument Design.pdf](Instrument Design.pdf)
+[Instrument Design.pdf](Instrument.Design.pdf)
