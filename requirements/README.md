@@ -16,6 +16,6 @@ Survey and Interviews
 
 ## Supplementary Materials:
 
-[CS Tutor Student Survey - Google Forms.pdf](artifacts/CS.Tutor.Student.Survey.-.Google.Forms.pdf)
+[CS Tutor Student Survey - Google Forms.pdf](artifacts/CSTutorStudentSurvey-GoogleForms.pdf)
 
-[Instrument Design.pdf](artifacts/Instrument.Design.pdf)
+[Instrument Design.pdf](artifacts/InstrumentDesign.pdf)
