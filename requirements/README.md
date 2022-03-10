@@ -16,6 +16,6 @@ Survey and Interviews
 
 ## Supplementary Materials:
 
-[CS Tutor Student Survey - Google Forms.pdf](https://github.com/UsabilityEngineering/ux-portfolio-the29ster/files/8209449/CS.Tutor.Student.Survey.-.Google.Forms.pdf)
+[CS Tutor Student Survey - Google Forms.pdf](CS Tutor Student Survey - Google.Forms.pdf)
 
-[Instrument Design.pdf](InstrumentDesign.pdf)
+[Instrument Design.pdf](Instrument Design.pdf)
