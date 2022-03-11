@@ -15,9 +15,9 @@ The interviews helped us to define the problem space we would be working in, so 
 
 ## Findings
 
-From our survey, we found about 60% of students are interested in tutoring, but only 30% of those students have actually interacted with the tutoring system here at CSU Chico. Of the students that interacted with the system, most of them were slightly dissatisfied with it. Some of the reasons that students have not interacted with the tutoring system were time constraints, not enough hours available, and not knowing where to go to get tutoring.
+From our survey (n=12), we found about 60% of students are interested in tutoring, but only 30% of those students have actually interacted with the tutoring system here at CSU Chico. Of the students that interacted with the system, most of them were slightly dissatisfied with it. Some of the reasons that students have not interacted with the tutoring system were time constraints, not enough hours available, and not knowing where to go to get tutoring.
 
-From the faculty members that we interviewed, we found that the system for scheduling and payroll is extremely dissatisfying and inefficient. There is lots of back and forth between student workers and faculty members through email. Three different faculty members used the word "cumbersome" to describe the system.
+From the faculty members that we interviewed (n=3), we found that the system for scheduling and payroll is extremely dissatisfying and inefficient. There is lots of back and forth between student workers and faculty members through email. Three different faculty members used the word "cumbersome" to describe the system.
 
 Depending on the occupation of the person interviewed, their level of satisfaction varied. Those working to process incoming data were the most displeased with the process. Those who had to manage student workers felt moderately inconvenienced, and those inputting data into the system that had already been processed felt only a little inconvenienced. 
 
