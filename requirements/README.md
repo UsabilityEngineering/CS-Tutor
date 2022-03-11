@@ -22,6 +22,8 @@ From the faculty members that we interviewed, we found that the system for sched
 
 ## Personas and Scenarios
 
+[Personas and Scenarios](../artifacts/PersonasandScenarios.pdf)
+
 ## Supplementary Materials
 
 [CS Tutor Student Survey - Google Forms](../artifacts/CSTutorStudentSurvey-GoogleForms.pdf)
