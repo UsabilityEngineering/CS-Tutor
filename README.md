@@ -30,6 +30,7 @@ We surveyed Chico State students to find out how many people have interacted wit
 * Online survey received **(n = 12) students' responses**
 * **58.3%** of students were **interested in getting tutoring**
   * Out of the students who were interested in getting tutoring, only **28.6%** of students have **gotten tutoring**
+  * The other **71.4%** have not gotten tutoring for the following reasons: **not enough hours available, not sure where to go for tutoring, and time constraints.**
 
 [Full phase 1 report](requirements/)
 
