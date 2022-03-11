@@ -4,8 +4,8 @@ Web application that allows Professors and Administrators to manage their studen
 
 ## UX Team Members
 
-* **[Nathan Whitney](https://usabilityengineering.github.io/ux-portfolio-the29ster/)** - Conducted interviews and surveys, Developed personas and scenarios.
-* **[Thomas Shelton](https://usabilityengineering.github.io/ux-portfolio-tomleeshelton/)** - Conducted interviews and surveys, Developed personas and scenarios.
+* **[Nathan Whitney](https://usabilityengineering.github.io/ux-portfolio-the29ster/)** - Conducted interviews and surveys, Developed personas and scenarios, Wrote up parts of the Phase 1 Report.
+* **[Thomas Shelton](https://usabilityengineering.github.io/ux-portfolio-tomleeshelton/)** - Conducted interviews and surveys, Developed personas and scenarios, Wrote up parts of the Phase 1 Report.
 
 # User-Centered Design Artifacts
  
