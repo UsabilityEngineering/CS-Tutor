@@ -31,7 +31,19 @@ Lab instructors have a collective bargaining unit, so when there is a gap in sch
 
 ## Conclusions
 
+Our survey showed that we must come to understand why people are not receiving tutoring if they are interested in it. As time-constrains are a large portion of this, it may help to investigate ways in which the scheduling portion of the system can be made quickly accessible. It may also be worth finding ways to spread the word about the tutoring program, although we do not currently know the best method for this.
+
+Learnability and memorability may be an area to explore for this project. One interviewee mentioned the existing application has extreme issues with this, and requires extensive training to do things that are simple and routine. Participants have either been through extensive training, or have been using the system for many years, and we should prioritize a seamless transition to reduce the frustrating of re-learning. 
+
+The requirement for the manual input of information hints that there may be redundancies in the system, as it is currently required that certain people process information and then separate people input information into the system. This may also simplify the persona generation stage, as we only have to account for people managing student workers, and the student workers themselves. Data suggests students may also be a consideration for persona generation if this becomes a large enough part of the project.
+
+Finding a replacement when scheduling issues arise is an area that could be further investigated. Previous data from interviews suggests that while it is not super common, it is disruptive and "annoying," even to those who found the current system overall less frustrating.
+
 ## Caveats
+
+Our sample size was limited in both the number of responses we received for the survey and interview portions of our research. This may hint that our survey needs to be redesigned. This combined with showcasing the survey in other areas might help to increase our sample size. 
+
+The biggest time constraint we came up against was time constraints, as we had to build leads for our interviews, which then took time to schedule. Each interviewee helped us to broaden our reach, and even an additional week to gather information might help exponentially because of this.
 
 ## Personas and Scenarios
 
