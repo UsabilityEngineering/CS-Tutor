@@ -17,7 +17,7 @@ Web application that allows Professors and Administrators to manage their studen
 
 **Executive Summary**
 
-The project's goal is to **make the scheduling and payroll process for student workers easier** for both faculty and the student workers themselves. In this requirements gathering phase, we reached out to different faculty members as well as students to get a grasp of how the current system works as of now.
+The project's goal is to **make the scheduling and payroll process for student workers easier** for both faculty and the student workers themselves. In this requirements gathering phase, we reached out to different faculty members as well as students to get a grasp of how the current system works.
 
 We interviewed **faculty members** to better understand how the current system works and to find out how satisfied they were with the current system.
 
@@ -28,7 +28,8 @@ We interviewed **faculty members** to better understand how the current system w
 We surveyed Chico State students to find out how many people have interacted with the current tutoring system and to see how satisfied they were with the current system.
 
 * Online survey received **(n = 12) students' responses**
-* 
+* **58.3%** of students were **interested in getting tutoring**
+  * Out of the students who were interested in getting tutoring, only **28.6%** of students have **gotten tutoring**
 
 [Full phase 1 report](requirements/)
 
