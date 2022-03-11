@@ -28,10 +28,7 @@ Web application that allows Professors and Administrators to manage their studen
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Coming soon!
 
 [Full phase 2 report](design/)
 
@@ -39,9 +36,6 @@ Web application that allows Professors and Administrators to manage their studen
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Coming soon!
 
 [Full phase 3 report](evaluation/)
