@@ -23,7 +23,7 @@ We interviewed **faculty members** to better understand how the current system w
 
 * Chico State **faculty members (n = 3)** participated in 1-on-1 interviews
 * All faculty members felt the current system is extremely **cumbersome**
-* 
+* Faculty members that process timesheets are especially **displeased** with the process, because they have to email timesheets back and forth between multiple people to verify that it is correct.
 
 We surveyed Chico State students to find out how many people have interacted with the current tutoring system and to see how satisfied they were with the current system.
 
@@ -31,6 +31,11 @@ We surveyed Chico State students to find out how many people have interacted wit
 * **58.3%** of students were **interested in getting tutoring**
   * Out of the students who were interested in getting tutoring, only **28.6%** of students have **gotten tutoring**
   * The other **71.4%** have not gotten tutoring for the following reasons: **not enough hours available, not sure where to go for tutoring, and time constraints.**
+
+From the requirements gathering, we identified common user needs
+
+* Faculty members need an **easier way of verifying timesheets** and other data from their student workers
+* The tutoring system needs to be **easier to access** for students to actually take advantage of it
 
 [Full phase 1 report](requirements/)
 
