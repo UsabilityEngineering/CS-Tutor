@@ -9,7 +9,7 @@ Web application that allows Professors and Administrators to manage their studen
 
 # User-Centered Design Artifacts
  
-* [Personas and Scenarios](#)
+* [Personas and Scenarios](artifacts/PersonasandScenarios.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
