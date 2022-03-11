@@ -17,10 +17,18 @@ Web application that allows Professors and Administrators to manage their studen
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+The project's goal is to **make the scheduling and payroll process for student workers easier** for both faculty and the student workers themselves. In this requirements gathering phase, we reached out to different faculty members as well as students to get a grasp of how the current system works as of now.
+
+We interviewed **faculty members** to better understand how the current system works and to find out how satisfied they were with the current system.
+
+* Chico State **faculty members (n = 3)** participated in 1-on-1 interviews
+* All faculty members felt the current system is extremely **cumbersome**
+* 
+
+We surveyed Chico State students to find out how many people have interacted with the current tutoring system and to see how satisfied they were with the current system.
+
+* Online survey received **(n = 12) students' responses**
+* 
 
 [Full phase 1 report](requirements/)
 
