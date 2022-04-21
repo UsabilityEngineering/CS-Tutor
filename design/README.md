@@ -10,7 +10,7 @@ The first-level sidebar, located on the left of the screen, was designed to conv
 
 Ideally, this menu would also translate to mobile by becoming a horizontal bar on the bottom of the screen, following the convention set by apps like Twitter, who also have different global modes of use. Basic information about the user is also conveyed in this sidebar, since the user’s status in the system governs what they are capable of doing in the rest of the application.
 
-![](../artifacts/Web1366–FacultyViewMonthlyViewCellSelected.jpg)
+![](../artifacts/Web1366–FacultyViewMonthlyViewDateCellSelected.jpg)
 
 ## Calendar
 The center column of the “Schedule” mode is the calendar view, which follows a traditional calendar layout. This is the primary interface through which users or faculty locate an individual tutor, and serves as a sort of “macroscopic view” before a date is selected for finer focus. The user is given the typical tools to navigate this calendar, including the ability to move forward and backward by a month, as well as to switch the calendar into a “weekly” view, which only shows 7 days at a time. Each cell on the calendar has small circles that represent tutors who are serving for the day, and displays their avatar, as well as an icon to represent how many other tutors were not able to be shown on the cell.
