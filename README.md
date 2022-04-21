@@ -39,11 +39,19 @@ From the requirements gathering, we identified common user needs
 
 [Full phase 1 report](requirements/)
 
-# Phase 2: Interaction Design
+# Phase 2: User-Centered Design
 
 **Executive Summary**
 
-* Coming soon!
+In this user-centered design phase, we accomplished our goals of creating wireframes and getting a working click-thru prototype taking into account what we learned from our previous information gathering.
+
+We planned out some ideas for our wireframes and ended up choosing a **calendar based** approach to our design.
+
+* The left panel has information on what is **currently** going on the screen
+* The middle is where the calendar is which allows the user to have an **at a glance** look of the tutors working and available.
+* The left panel shows **more information** based on which cell of the calendar is clicked.
+
+With our wireframes in mind, we created a click-thru prototype that allows us to better **understand the workflow** of our users.
 
 [Full phase 2 report](design/)
 
