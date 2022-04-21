@@ -1,20 +1,19 @@
 # Interaction Design
 
-![](../artifacts/Web1366–FacultyViewMonthlyView.jpg)
-
 ## Design Goals
 When we initially set out to work on a design, it was in response to the data we gathered in Phase 1 of the project. We realized that the app would need to be centered around a timeline of sorts, and allow faculty an at-a-glance view of the inner workings of the tutoring department. We had initially planned to design separate interfaces for both students and faculty, but quickly realized a lot of the user objectives were the same, including verifying the hours of specific tutors, as well as being able to change account settings and perform searches. Because of this, we settled on a three-column design for our initial draft. Our focus was on learnability, minimalist layout and preventing users from feeling overwhelmed.
 
 ## Sidebar
+![](../artifacts/Web1366–FacultyViewMonthlyView.jpg)
 The first-level sidebar, located on the left of the screen, was designed to convey the program’s current global mode in a high-visibility manner. No matter where you go, this bar serves as a reminder of where the user is in the application. Of these three modes are “locating a tutor through the schedule,” “locating a tutor through an alphabetical list,” and “changing my user account settings.” This sidebar is also a useful place for other expansions to the system in the future, although it has the possibility to grow out of control if heavy restrictions are not placed on what goes in it. 
 
 Ideally, this menu would also translate to mobile by becoming a horizontal bar on the bottom of the screen, following the convention set by apps like Twitter, who also have different global modes of use. Basic information about the user is also conveyed in this sidebar, since the user’s status in the system governs what they are capable of doing in the rest of the application.
 
-![](../artifacts/Web1366–FacultyViewMonthlyViewDateCellSelected.jpg)
-
 ## Calendar
+![](../artifacts/Web1366–FacultyViewMonthlyViewDateCellSelected.jpg)
 The center column of the “Schedule” mode is the calendar view, which follows a traditional calendar layout. This is the primary interface through which users or faculty locate an individual tutor, and serves as a sort of “macroscopic view” before a date is selected for finer focus. The user is given the typical tools to navigate this calendar, including the ability to move forward and backward by a month, as well as to switch the calendar into a “weekly” view, which only shows 7 days at a time. Each cell on the calendar has small circles that represent tutors who are serving for the day, and displays their avatar, as well as an icon to represent how many other tutors were not able to be shown on the cell.
 
+![](../artifacts/Web1366–FacultyViewWeeklyViewDateCellSelected.jpg)
 The weekly mode of the calendar simply takes the grid cells of the calendar and stretches a row of them to be full-width, allowing the user to see the finer details of each day while still not navigating out of the “macroscopic view” of the calendar column. Users are able to see the general overview of which tutors are scheduled for which specific times.
 
 
