@@ -35,6 +35,7 @@ Each time card also has a tabbed interface, which by default allows the user to 
 ![](../artifacts/Web1366–FacultyViewTutorList.jpg)
 The tutor-list is a way for faculty to verify the number of hours that a specific tutor has been logged for in a given payment period. By default, this grid is sorted alphabetically, but modes of sorting can be changed by clicking on the category cells. This section resembles a spreadsheet that is automatically fed information by the “Schedule” mode of the program. Tutor information cannot be edited on this display, as it serves more as a reference.
 
+![](../artifacts/Web1366–FacultyViewSettings.jpg)
 The “Settings” mode of the program is handled by either horizontally or vertically stacked cards (depending on the screen or window size.) Each settings card is its own widget, with actionable buttons typically located at the bottom.
 
 
