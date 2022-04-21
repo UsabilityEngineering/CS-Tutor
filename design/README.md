@@ -1,6 +1,6 @@
 # Interaction Design
 
-!(../artifacts/Web1366–FacultyViewMonthlyView.jpg)
+![](../artifacts/Web1366–FacultyViewMonthlyView.jpg)
 
 ## Design Goals
 When we initially set out to work on a design, it was in response to the data we gathered in Phase 1 of the project. We realized that the app would need to be centered around a timeline of sorts, and allow faculty an at-a-glance view of the inner workings of the tutoring department. We had initially planned to design separate interfaces for both students and faculty, but quickly realized a lot of the user objectives were the same, including verifying the hours of specific tutors, as well as being able to change account settings and perform searches. Because of this, we settled on a three-column design for our initial draft. Our focus was on learnability, minimalist layout and preventing users from feeling overwhelmed.
