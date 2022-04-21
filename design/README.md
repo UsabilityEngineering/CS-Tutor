@@ -21,7 +21,7 @@ The weekly mode of the calendar simply takes the grid cells of the calendar and 
 If a user is looking for a specific subject or tutor, the search bar allows them to look them up. Once selected from the drop-down list, the selected user or subject becomes a “filter” that is applied to the calendar, and which can be dismissed by clicking on the small “x” button to the right of each applied filter. Popular filters are shown beneath the search bar as boxes with uppercase text, and are visually distinct from the applied filters, lacking an ability to dismiss them and imitating a button more clearly. If the “popular filters” list overflows, it scrolls horizontally with a user’s finger, or by clicking and dragging.
 
 ## Daily Schedule & Time-Cards
-
+![](artifacts/Web1366–FacultyViewMonthlyViewCardHamburgerMenuOpened.jpg)
 The right-most column is where the “finer details” are managed once a calendar date-cell is selected. When nothing is selected, some quick text prompts the user to make a selection. After making this selection, the grid-cell on the calendar is highlighted, and the right sidebar is populated with “time cards,” representing tutor sessions on a vertical timeline. 
 
 A tutor’s time-slot is represented by a card. By default, the card starts in a minimized state, only showing the name and subject of the tutor’s session. By tapping the name of the tutor, the user can get more details, as well as perform both student and administrative actions, like contacting or scheduling with the tutor. Administrative options appear in the “hamburger menu” on each card, allowing faculty to delete the card, change details about the session, and view the user in the “Tutor List” mode of the program. 
@@ -31,6 +31,7 @@ Cards are stacked based on the starting-time of the session they are associated 
 Each time card also has a tabbed interface, which by default allows the user to either see biographical information about the tutor, or see more details about the selected session. Other options can be added to the tabbed interface in the future, but it should be kept to a maximum of 3 options.
 
 ## Tutor List
+![](artifacts/Web1366–FacultyViewTutorList.jpg)
 The tutor-list is a way for faculty to verify the number of hours that a specific tutor has been logged for in a given payment period. By default, this grid is sorted alphabetically, but modes of sorting can be changed by clicking on the category cells. This section resembles a spreadsheet that is automatically fed information by the “Schedule” mode of the program. Tutor information cannot be edited on this display, as it serves more as a reference.
 
 The “Settings” mode of the program is handled by either horizontally or vertically stacked cards (depending on the screen or window size.) Each settings card is its own widget, with actionable buttons typically located at the bottom.
