@@ -41,4 +41,6 @@ The “Settings” mode of the program is handled by either horizontally or vert
 ## Conclusion
 Users wanted a uniform, simple system that would reduce redundancies and trust both students and faculty more to manage their affairs. The system was designed to be mostly “shallow” so that users would not get lost in deep menus and therefore find it cumbersome to use. We focused on the simple task of finding tutors as both faculty and student users, as well as getting metadata about them and the sessions they were associated with. Hopefully this calendar system proves useful with further user testing, and can at least supplant the existing solution that utilizes multiple services and personnel to do simple tasks.
 
-[Faculty View Monthly View Card + Menu Opened](../artifacts/Web1366–FacultyViewMonthlyViewCard+MenuOpened.pdf)
+## Supplementary Materials
+[Wireframes](../artifacts/CSTutor-Wireframe-V1.pdf)
+[Prototype](https://xd.adobe.com/view/0e7cf291-2f1a-4e88-8e3a-31e7c6be2a19-5b2f/screen/ca615a03-1354-442e-9bb0-63902fd88c63?fullscreen&hints=off)
