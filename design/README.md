@@ -26,6 +26,7 @@ The right-most column is where the “finer details” are managed once a calend
 
 A tutor’s time-slot is represented by a card. By default, the card starts in a minimized state, only showing the name and subject of the tutor’s session. By tapping the name of the tutor, the user can get more details, as well as perform both student and administrative actions, like contacting or scheduling with the tutor. Administrative options appear in the “hamburger menu” on each card, allowing faculty to delete the card, change details about the session, and view the user in the “Tutor List” mode of the program. 
 
+![](../artifacts/Web1366–FacultyViewMonthlyViewCard+MenuOpened.jpg)
 Cards are stacked based on the starting-time of the session they are associated with. Either faculty or the tutor themselves can add a new card by clicking on the plus button at the top right of the sidebar, which then prompts the user to input a starting time, as well as other information about the tutor and the subject they are tutoring on. By scrolling with either a finger or the mouse-wheel, the user can move through the stacked list of cards, of which each are separated by the time they are scheduled to start in the form of a header.
 	
 Each time card also has a tabbed interface, which by default allows the user to either see biographical information about the tutor, or see more details about the selected session. Other options can be added to the tabbed interface in the future, but it should be kept to a maximum of 3 options.
