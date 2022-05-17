@@ -11,7 +11,7 @@ Web application that allows Professors and Administrators to manage their studen
  
 * [Personas and Scenarios](artifacts/PersonasandScenarios.pdf)
 * [Wireframes](artifacts/CSTutor-Wireframe-V1.pdf)
-* [Draft Prototype](https://xd.adobe.com/view/0e7cf291-2f1a-4e88-8e3a-31e7c6be2a19-5b2f/screen/ca615a03-1354-442e-9bb0-63902fd88c63?fullscreen&hints=off)
+* [Click-thru Prototype](https://xd.adobe.com/view/d79ba3eb-be07-4198-83a3-1b048ae041b5-82c8/screen/ca615a03-1354-442e-9bb0-63902fd88c63?fullscreen&hints=off)
 * [Usability Test Protocol](artifacts/UsabilityTestProtocol.pdf)
 
 # Phase 1: Requirements Gathering
