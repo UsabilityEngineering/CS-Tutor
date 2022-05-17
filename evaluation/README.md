@@ -40,4 +40,5 @@ User's overall assessments of our design were primarily positive. One user sugge
 
 ## Supplementary Materials
 [Click-thru Prototype](https://xd.adobe.com/view/d79ba3eb-be07-4198-83a3-1b048ae041b5-82c8/screen/ca615a03-1354-442e-9bb0-63902fd88c63?fullscreen&hints=off)
+
 [Usability Test Protocol](../artifacts/UsabilityTestProtocol.pdf)
