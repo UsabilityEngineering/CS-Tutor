@@ -2,6 +2,7 @@
 
 ## Heuristic Evaluation
 SCALE: (1) Very Bad to (5) Very Good
+
 Our initial heuristic evaluation returned a lot of useful information. Users found the visibility of the system status about a 4. It was mentioned that outcomes were relatively predictable, and the system provided enough feedback while navigating to prevent confusion.
 On "Match Between System and Real World," users rated our prototype between a 3 and a 4, citing the calendar as a familiar element, yet mentioning that specific elements of formatting were unfamiliar. The tags were said to be a good system for conducting searches by one user, which was contradicted by another in the "User Control and Freedom" section.
 "User Control and Freedom" also sat somewhere around a 3 and a 4, with two users disagreeing over the usefulness of the tag system. Ease of being able to contact tutors is a plus in this category.
